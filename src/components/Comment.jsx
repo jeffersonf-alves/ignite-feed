@@ -16,21 +16,20 @@ export function Comment() {
                             <time title='01 de janeiro 2022' dateTime="2022-01-01 13:00:00">Cerca de 1h atrás</time>
                         </div>
                         <button title='Deletar comentário'>
-                            <Trash size={20}/>
+                            <Trash size={24}/>
                         </button>
                     </header>
 
                     <p>Muito Bomm Jeff, parábens!</p>
                 </div>
-
-            </div>
-
-            <footer>
+                <footer>
                 <button>
                     <ThumbsUp />
                     Aplaudir <span>20</span>
                 </button>
             </footer>
+
+            </div>
         </div>
     )
 }
