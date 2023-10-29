@@ -18,7 +18,7 @@ export function Post() {
                 <time title='01 de janeiro 2022' dateTime="2022-01-01 13:00:00">Publicado há 1h</time>
             </header>
             <div className={styles.content}>
-                <p>Fala galeraa 👋</p>
+                    <p>Fala galeraa 👋</p>
                     <p>Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀</p>
                     <p><a href="">jane.design/doctorcare</a></p>
                     <p>
