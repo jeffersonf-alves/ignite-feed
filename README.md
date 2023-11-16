@@ -1,6 +1,6 @@
 # Ignite Feed
 
-Projetinho feito em um curso da Rocketseat para entender melhor alguns conceitos de react.js.
+Projetinho feito em um curso da Rocketseat para entender melhor alguns conceitos do react.js.
 
 ## Assuntos abordados no curso
 
